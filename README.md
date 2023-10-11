@@ -1,0 +1,1 @@
+I have been working on creating a lottery website. Unfortunately, I've been developing the frontend on my own for about 2 months, and I acknowledge that there are some deficiencies in my project. I'm doing my best to improve and enhance my skills as much as possible. If you'd like to help me develop it or offer assistance, you can reach me at emircvdar@gmail.com.
